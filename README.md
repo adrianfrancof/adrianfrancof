@@ -4,7 +4,7 @@ Hi 👋 My name is Adrian Franco
 Java Developer | Integration Lead | Electronic Engineer
 -------------------------------------------------------
 
-IT Professional Full Stack Java Developer, I worked doing work with different technologies and frameworks.
+IT Professional Full Stack Java Developer, I doing work with different technologies and frameworks.
 
 ### Skills
 
