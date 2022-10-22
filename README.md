@@ -4,7 +4,24 @@ Hi 👋 My name is Adrian Franco
 Java Developer | Integration Lead | Electronic Engineer
 -------------------------------------------------------
 
-IT Professional Full Stack Java Developer, I worked doing work with different technologies and frameworks. Java, Java EE. Spring, spring boot. Rest of API. Expert. Web applications development. HTML, CSS, JavaScript. Model View Controller (MVC). Object Oriented Programming (OOP) Database, SQL. Design patterns.
+IT Professional Full Stack Java Developer, I worked doing work with different technologies and frameworks. 
+Java 
+Java EE
+Spring Framework
+Spring boot Rest of API
+Spring Security
+JWT
+Maven
+Gradle
+Model View Controller (MVC)
+Object Oriented Programming (OOP)
+SQL, Oracle, MySql
+Design patterns
+Web applications development
+JavaScript
+HTML
+CSS
+JQuery
 
 * 🌍  I'm based in Wordwide
 * ✉️  You can contact me at [adrianfrancof@gmail.com](mailto:adrianfrancof@gmail.com)
