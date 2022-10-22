@@ -6,23 +6,23 @@ Java Developer | Integration Lead | Electronic Engineer
 
 IT Professional Full Stack Java Developer, I worked doing work with different technologies and frameworks.
 
- - [x]Java 
- - [x]Java EE
- - [x]Spring Framework
- - [x]Spring boot Rest of API
- - [x]Spring Security
- - [x]JWT
- - [x]Maven
- - [x]Gradle
- - [x]Model View Controller (MVC)
- - [x]Object Oriented Programming (OOP)
- - [x]SQL, Oracle, MySql
- - [x]Design patterns
- - [x]Web applications development
- - [x]JavaScript
- - [x]HTML
- - [x]CSS
- - [x]JQuery
+ - Java 
+ - Java EE
+ - Spring Framework
+ - Spring boot Rest of API
+ - Spring Security
+ - JWT
+ - Maven
+ - Gradle
+ - Model View Controller (MVC)
+ - Object Oriented Programming (OOP)
+ - SQL, Oracle, MySql
+ - Design patterns
+ - Web applications development
+ - JavaScript
+ - HTML
+ - CSS
+ - JQuery
 
 * 🌍  I'm based in Wordwide
 * ✉️  You can contact me at [adrianfrancof@gmail.com](mailto:adrianfrancof@gmail.com)
