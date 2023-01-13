@@ -44,7 +44,6 @@ IT Professional Full Stack Java Developer, I doing work with different technolog
 * 🌍  I'm based in Wordwide
 * ✉️  You can contact me at [adrianfrancof@gmail.com](mailto:adrianfrancof@gmail.com)
 * 🧠  I'm learning Flutter
-* ⚡  I'm secretly Spiderman... but don't tell anyone
 
 
 <pre>
