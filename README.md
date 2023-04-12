@@ -1,10 +1,10 @@
 Hi 👋 My name is Adrian Franco
 ==============================
 
-Java Developer | Integration Lead | Electronic Engineer
+Developer | Integration Lead | Electronic Engineer
 -------------------------------------------------------
 
-IT Professional Full Stack Java Developer, I doing work with different technologies and frameworks.
+IT Professional Full Stack Developer, I doing work with different technologies and frameworks.
 
 ### Skills
 
@@ -23,7 +23,9 @@ IT Professional Full Stack Java Developer, I doing work with different technolog
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
- - Java 
+ - Java
+ - Python
+ - JavaScript 
  - Java EE
  - Spring Framework
  - Spring boot Rest of API
@@ -36,13 +38,12 @@ IT Professional Full Stack Java Developer, I doing work with different technolog
  - SQL, Oracle, MySql
  - Design patterns
  - Web applications development
- - JavaScript
  - HTML
  - CSS
  - JQuery
 
 * 🌍  I'm based in Wordwide
-* ✉️  You can contact me at [adrianfrancof@gmail.com](mailto:adrianfrancof@gmail.com)
+* ✉️  You can contact me at
 * 🧠  I'm learning Flutter
 
 
@@ -58,7 +59,7 @@ IT Professional Full Stack Java Developer, I doing work with different technolog
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/adrianfrancof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adrianfrancof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/adrianfrancof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/adrianfrancof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <!--
 **adrianfrancof/adrianfrancof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
