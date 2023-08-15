@@ -1,4 +1,5 @@
-### <div align="center">Hi 👋 my name is Adrian Franco</div>  
+## <div align="left">Hi 👋 my name is Adrian Franco</div>
+==============================
 
 - 👨‍💻  Developer | Integration Lead | Electronic Engineer | Teacher  
   
@@ -11,11 +12,33 @@
 
 - ⚡I have been working remotely since 2019  
   
-
 <br/>  
 
+## My Skill Set
 
-## My Skill Set  
+ - Java
+ - Python
+ - JavaScript 
+ - Java EE
+ - Django
+ - Spring Framework
+ - Spring boot Rest of API
+ - Spring Security
+ - JWT
+ - Maven
+ - Gradle
+ - Model View Controller (MVC)
+ - Object Oriented Programming (OOP)
+ - SQL, Oracle, MySql
+ - Design patterns
+ - Web applications development
+ - HTML
+ - CSS
+ - JQuery
+ - Git  
+
+<br/>
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -62,8 +85,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -77,27 +99,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
- - Java
- - Python
- - JavaScript 
- - Java EE
- - Spring Framework
- - Spring boot Rest of API
- - Spring Security
- - JWT
- - Maven
- - Gradle
- - Model View Controller (MVC)
- - Object Oriented Programming (OOP)
- - SQL, Oracle, MySql
- - Design patterns
- - Web applications development
- - HTML
- - CSS
- - JQuery  
-  
+<br/>  
 
 <pre>
   .   ____          _            __ _ _
